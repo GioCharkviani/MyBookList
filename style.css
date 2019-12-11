@@ -1,0 +1,91 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    max-width: 50px;
+}
+
+h1 {
+    margin: 50% 4px;
+}
+
+span {
+    color: blue;
+}
+
+.container-header {
+    display: inline-flex;
+    margin: 0 40%;
+}
+
+.main {
+    margin: 0 35%;
+    margin-bottom: 10px;
+}
+
+h3 {
+    margin-bottom: 0;
+}
+
+input {
+    width: 400px;
+    height: 30px;
+    border-radius: 2%;
+}
+
+#submit {
+    margin-top: 5px;
+    color: white;
+    background: blue;
+    width: 404px;
+    height: 30px;
+    border: 2px solid royalblue;
+    border-radius: 4px;
+}
+
+h4 {
+    margin: 4px;
+    margin-right: 40px;
+}
+
+.add-container {
+    padding-top: 0;
+    margin-top: 15px;
+    display: inline-flex;
+    border: 1px solid;
+    width: 400px;
+    height: 30px;
+    border-radius: 4px;
+}
+
+.del {
+    margin: 3px;
+    background: red;
+    color: white;
+    height: 80%;
+    border-radius: 4px;
+}
+
+.added-book {
+    border: 1px solid;
+    width: 400px;
+    border-radius: 4px;
+    margin: 0 35%;
+    background: green;
+}
+
+.removed-book {
+    border: 1px solid;
+    width: 400px;
+    border-radius: 4px;
+    margin: 0 35%;
+    background: green;
+}
+
+p {
+    color: white;
+    margin-left: 40%;
+}
+
